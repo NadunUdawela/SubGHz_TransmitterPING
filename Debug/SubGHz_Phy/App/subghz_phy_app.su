@@ -1,0 +1,8 @@
+../SubGHz_Phy/App/subghz_phy_app.c:153:6:SubghzApp_Init	56	static
+../SubGHz_Phy/App/subghz_phy_app.c:249:13:OnTxDone	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:260:13:OnRxDone	40	static
+../SubGHz_Phy/App/subghz_phy_app.c:301:13:OnTxTimeout	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:312:13:OnRxTimeout	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:323:13:OnRxError	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:335:13:PingPong_Process	8	static
+../SubGHz_Phy/App/subghz_phy_app.c:406:13:OnledEvent	16	static
